@@ -136,3 +136,6 @@ in `DD03L`). Replacing them changes no byte in an RFC interface, so no caller no
 
 In S/4HANA the header status fields are in `VBAK` (`GBSTK`, `ABSTK`, `LFSTK`). If `VBUK`/`VBUP` are still
 populated in your system, moving reads to `VBAK` is technical debt, not a data emergency: plan it, do not rush it.
+
+---
+Maintained by [DoZimple](https://dozimple.cl). Apache-2.0.
