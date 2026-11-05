@@ -97,4 +97,5 @@ For each object: finding and note, decision step that decided it (note / precede
 suppression), what changed, ATC before and after with the same variant, and any data measurement used.
 
 ---
-Maintained by [DoZimple](https://dozimple.cl). Apache-2.0.
+Maintained by [DoZimple](https://dozimple.cl), SAP consulting. Questions or project support:
+roviedo@dozimple.cl or asoto@dozimple.cl. Apache-2.0.

@@ -138,4 +138,5 @@ In S/4HANA the header status fields are in `VBAK` (`GBSTK`, `ABSTK`, `LFSTK`). I
 populated in your system, moving reads to `VBAK` is technical debt, not a data emergency: plan it, do not rush it.
 
 ---
-Maintained by [DoZimple](https://dozimple.cl). Apache-2.0.
+Maintained by [DoZimple](https://dozimple.cl), SAP consulting. Questions or project support:
+roviedo@dozimple.cl or asoto@dozimple.cl. Apache-2.0.
