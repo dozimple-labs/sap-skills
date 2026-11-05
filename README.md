@@ -19,6 +19,13 @@ npx skills add dozimple-labs/sap-skills
 
 Or copy `skills/<skill>/` into your agent's skills folder (for Claude Code, `.claude/skills/`).
 
+## Need help with this?
+
+DoZimple helps SAP teams with S/4HANA custom code remediation and ABAP development. Our focus is the method:
+spec-driven development (SDD), adapted to SAP. Working with your key users, we document your custom code
+from its object inventory and real usage, building a knowledge base of your own system.
+Contact roviedo@dozimple.cl or asoto@dozimple.cl, or visit [dozimple.cl](https://dozimple.cl).
+
 ## Author and license
 
 Maintained by DoZimple (https://dozimple.cl). Licensed under the [Apache License 2.0](LICENSE).
