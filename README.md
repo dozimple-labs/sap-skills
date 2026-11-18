@@ -6,6 +6,7 @@ company in Chile.
 | Skill | What it does |
 |---|---|
 | [s4hana-atc-remediation](skills/s4hana-atc-remediation/SKILL.md) | Fix custom ABAP flagged by the ATC S/4HANA readiness checks so the finding is really solved: decision order (SAP Note, precedent, minimal change, suppression), field length extension, VBTYP, KONV, BSEG/ACDOCA, KNKK/FSCM, `_LONG` amounts and definition of done |
+| [abap-750-compatible](skills/abap-750-compatible/SKILL.md) | Write ABAP that activates on NetWeaver 7.50 (ECC 6.0 EHP8): what modern syntax exists there, what to write instead (ENUM, CTEs, SELECT FROM @itab, SQL string and date functions, LOOP STEP, utclong), ABAP SQL limits, dictionary objects ADT cannot create on 7.50 and traps found on real systems |
 
 These skills are knowledge only: they do not call any SAP system or API.
 
