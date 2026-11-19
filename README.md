@@ -7,6 +7,7 @@ company in Chile.
 |---|---|
 | [s4hana-atc-remediation](skills/s4hana-atc-remediation/SKILL.md) | Fix custom ABAP flagged by the ATC S/4HANA readiness checks so the finding is really solved: decision order (SAP Note, precedent, minimal change, suppression), field length extension, VBTYP, KONV, BSEG/ACDOCA, KNKK/FSCM, `_LONG` amounts and definition of done |
 | [abap-750-compatible](skills/abap-750-compatible/SKILL.md) | Write ABAP that activates on NetWeaver 7.50 (ECC 6.0 EHP8): what modern syntax exists there, what to write instead (ENUM, CTEs, SELECT FROM @itab, SQL string and date functions, LOOP STEP, utclong), ABAP SQL limits, dictionary objects ADT cannot create on 7.50 and traps found on real systems |
+| [sap-transport-risk-checklist](skills/sap-transport-risk-checklist/SKILL.md) | Decide whether a transport request, or a release of several, is safe to import into QAS or PRD: unreleased tasks, objects that do not travel, missing dependencies, version drift, positional access broken by a table change, dictionary activation failures, CTS locks and transports of copies, import order, SLT-replicated tables, and how to write the verdict for managers, consultants and Basis |
 
 These skills are knowledge only: they do not call any SAP system or API.
 
